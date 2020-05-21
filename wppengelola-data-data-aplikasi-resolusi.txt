@@ -2,3 +2,7 @@ wppengelola-data-data-aplikasi-resolusi
 - kosisten untuk mengelola data-data aplikasi plabuhan terbaru. atau juga di sebut dengan program docker dan kubernetes agar bisa di perguna kan menguna sistem atau aplikasi yang telah di bikin atau sedang dirancang oleh plabuhan-plabuhan yang maju. sehinga bisa di pergunakan untuk kegiata oprasional kegiatan di pelabuhan terminal diera digita seperti sekarang. berkeja sama berkalaborasi kerja tim melihat perkembangan data-data rancangan aplikasi atau data perogram tersebut.
 - ngauplod data atau mendownload data dari perogram. aplikasi perogram supaya bisa dicek seperti apa platfrom aplikasi tersebut sehiga dapat dimengerti dan dipergunakan.
 - membuat forum atau tim diskusi 
+- membuat mark shop 
+- kalaborasi dengan lebih banyak expert 
+- berkenalan dengan para devprogramer atau perogramer-programer atau berkalaborasi dengan para programer-programer devlover.
+- mempersiap kan wabsite penjualan buku-buku pengelola pelabuhan dan oprasional pelabuhan. target harus selesai dansiap sebagus mungkin dalam satu bualan kedepannya
